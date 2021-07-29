@@ -1,0 +1,19 @@
+{
+	"element": [
+		{
+			"id": 0,
+			"name": "Pyro",
+			"image": "pyro.png"
+		},
+		{
+			"id": 1,
+			"name": "Hydro",
+			"image": "hydro.png"
+		},
+		{
+			"id": 2,
+			"name": "Anemo",
+			"image": "anemo.png"
+		}
+	]
+}
