@@ -14,6 +14,26 @@
 			"id": 2,
 			"name": "Anemo",
 			"image": "anemo.png"
+		},
+		{
+			"id": 3,
+			"name": "Electro",
+			"image": "electro.png"
+		},
+		{
+			"id": 4,
+			"name": "Dendro",
+			"image": "dendro.png"
+		},
+		{
+			"id": 5,
+			"name": "Cyro",
+			"image": "cyro.png"
+		},
+		{
+			"id": 6,
+			"name": "Geo",
+			"image": "geo.png"
 		}
 	]
 }
