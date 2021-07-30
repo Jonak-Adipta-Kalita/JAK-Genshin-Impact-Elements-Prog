@@ -3,37 +3,51 @@
 		{
 			"id": 0,
 			"name": "Pyro",
-			"image": "pyro.png"
+			"image": "pyro.png",
+			"archon": "Murata",
+			"status_applies": "Pyro"
 		},
 		{
 			"id": 1,
 			"name": "Hydro",
-			"image": "hydro.png"
+			"image": "hydro.png",
+			"archon": "Hydro Archon",
+			"status_applies": "Wet"
 		},
 		{
 			"id": 2,
 			"name": "Anemo",
-			"image": "anemo.png"
+			"image": "anemo.png",
+			"archon": "Barbatos",
+			"status_applies": null
 		},
 		{
 			"id": 3,
 			"name": "Electro",
-			"image": "electro.png"
+			"image": "electro.png",
+			"archon": "Baal",
+			"status_applies": "Electro"
 		},
 		{
 			"id": 4,
 			"name": "Dendro",
-			"image": "dendro.png"
+			"image": "dendro.png",
+			"archon": "Dendro Archon",
+			"status_applies": "Dendro"
 		},
 		{
 			"id": 5,
 			"name": "Cyro",
-			"image": "cyro.png"
+			"image": "cyro.png",
+			"archon": "Tsaritsa",
+			"status_applies": "Cryo"
 		},
 		{
 			"id": 6,
 			"name": "Geo",
-			"image": "geo.png"
+			"image": "geo.png",
+			"archon": "Morax",
+			"status_applies": null
 		}
 	]
 }
